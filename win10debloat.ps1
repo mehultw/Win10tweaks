@@ -161,7 +161,8 @@ $tweaks = @(
 	"UninstallOneDrive",            # "InstallOneDrive",
 	"UninstallMsftBloat",           # "InstallMsftBloat",
 	"UninstallThirdPartyBloat",     # "InstallThirdPartyBloat",
-	# "UninstallWindowsStore",      # "InstallWindowsStore",
+	# "UninstallWindowsStore",      
+	"InstallWindowsStore",
 	 "DisableXboxFeatures",          # "EnableXboxFeatures",
 	#"DisableAdobeFlash",            # "EnableAdobeFlash",
 	"InstallMediaPlayer", 		# "UninstallMediaPlayer",
@@ -214,7 +215,7 @@ Function InstallAdobe {
 
 Function InstallMTProgs{
 	Write-Output "Installing MT's default progs"
-	cinst -y 7zip cpu-z gpu-z anaconda3 alacritty AutoHotkey etcher brave cue networx eartrumpet discord firefox faststone tor tor-browser-dev fsviewer filezilla filezilla.server winscp click-monitor-ddc mls-software-openssh putty git atom gpu-z windowsfirewallcontrol logitech-options logitechgaming
+	cinst -y 7zip cpu-z gpu-z anaconda3 alacritty AutoHotkey etcher brave cue networx eartrumpet discord firefox tor tor-browser fsviewer filezilla filezilla.server winscp click-monitor-ddc mls-software-openssh putty git atom gpu-z windowsfirewallcontrol logitech-options logitechgaming
 steam rainmeter sharex spotify sublimetext3 lockhunter vlc vscode windirstat winrar wireshark station fluent-terminal stellarium veracrypt microsoft-edge msiafterburner musicbee nitroshare nodejs notepadplusplus origin obs-studio powertoys pia python quicklook r.studio r.project stremio pip
 }
 
@@ -2542,16 +2543,16 @@ Function DebloatAll {
         "Microsoft.Office.Lens"
         "Microsoft.Office.Sway"
         "Microsoft.OneConnect"
-        "Microsoft.People"
-        "Microsoft.Print3D"
+        #"Microsoft.People"
+        #"Microsoft.Print3D"
         "Microsoft.SkypeApp"
-        "Microsoft.StorePurchaseApp"
-        "Microsoft.Whiteboard"
-        "Microsoft.WindowsAlarms"
-        "microsoft.windowscommunicationsapps"
+        #"Microsoft.StorePurchaseApp"
+        #"Microsoft.Whiteboard"
+        #"Microsoft.WindowsAlarms"
+        #"microsoft.windowscommunicationsapps"
         "Microsoft.WindowsFeedbackHub"
-        "Microsoft.WindowsMaps"
-        "Microsoft.WindowsSoundRecorder"
+        #"Microsoft.WindowsMaps"
+        #"Microsoft.WindowsSoundRecorder"
         "Microsoft.ZuneMusic"
         "Microsoft.ZuneVideo"
 
