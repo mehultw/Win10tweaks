@@ -3,7 +3,9 @@
 # Primary Author: Disassembler <disassembler@dasm.cz>
 # Primary Author Source: https://github.com/Disassembler0/Win10-Initial-Setup-Script
 # Tweaked Source: https://gist.github.com/alirobe/7f3b34ad89a159e6daa1/
+# tweak link: https://git.io/JTpmm
 # Tweaked by @Mt_Dark;
+# Tweaked for a_Tanwar;
 #
 #    Note from author: Never run scripts without reading them & understanding what they do.
 #
@@ -32,7 +34,7 @@ $tweaks = @(
 	### Chris Titus Tech Additions
 	"TitusRegistryTweaks",
 	"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
-	"Install7Zip",
+	#"Install7Zip",
 	"InstallMTProgs",
 	#"InstallNotepadplusplus",
 	#"InstallIrfanview",
@@ -160,7 +162,7 @@ $tweaks = @(
 	"UninstallMsftBloat",           # "InstallMsftBloat",
 	"UninstallThirdPartyBloat",     # "InstallThirdPartyBloat",
 	# "UninstallWindowsStore",      # "InstallWindowsStore",
-	# "DisableXboxFeatures",          # "EnableXboxFeatures",
+	"DisableXboxFeatures",          # "EnableXboxFeatures",
 	#"DisableAdobeFlash",            # "EnableAdobeFlash",
 	"InstallMediaPlayer", 		# "UninstallMediaPlayer",
 	#"UninstallInternetExplorer",  # "InstallInternetExplorer",
@@ -2596,24 +2598,24 @@ Function DebloatAll {
         "Microsoft.BingNews"
         "Microsoft.GetHelp"
         "Microsoft.Getstarted"
-        "Microsoft.Messaging"
-        "Microsoft.Microsoft3DViewer"
+        #"Microsoft.Messaging"
+        #"Microsoft.Microsoft3DViewer"
         "Microsoft.MicrosoftSolitaireCollection"
-        "Microsoft.NetworkSpeedTest"
+        #"Microsoft.NetworkSpeedTest"
         "Microsoft.News"
-        "Microsoft.Office.Lens"
-        "Microsoft.Office.Sway"
-        "Microsoft.OneConnect"
-        "Microsoft.People"
-        "Microsoft.Print3D"
+        #"Microsoft.Office.Lens"
+        #"Microsoft.Office.Sway"
+        #"Microsoft.OneConnect"
+        #"Microsoft.People"
+        #"Microsoft.Print3D"
         "Microsoft.SkypeApp"
-        "Microsoft.StorePurchaseApp"
-        "Microsoft.Whiteboard"
-        "Microsoft.WindowsAlarms"
-        "microsoft.windowscommunicationsapps"
+        #"Microsoft.StorePurchaseApp"
+        #"Microsoft.Whiteboard"
+        #"Microsoft.WindowsAlarms"
+        #"microsoft.windowscommunicationsapps"
         "Microsoft.WindowsFeedbackHub"
-        "Microsoft.WindowsMaps"
-        "Microsoft.WindowsSoundRecorder"
+        #"Microsoft.WindowsMaps"
+        #"Microsoft.WindowsSoundRecorder"
         "Microsoft.ZuneMusic"
         "Microsoft.ZuneVideo"
 
