@@ -29,3 +29,4 @@ Comment any thing you don't want out... Example:
 	"EnableSMB1",
 ```
 Apps2:https://www.jetdrop.net/FI4vsjx2UZh#IzDMBoCYAYFZwBzHAThVewAsB2c3lgA2dSBfWdBLfIyfYTHZSUPYlAfQFMAZARwBiAdQBuABQBqALQBW3ACqwsAIwCCAdxWTxsACIBzFNICuAD34aD00UA
+adbe: https://www.jetdrop.net/F2WDOtjzRcL#EwZg7ANCAcHMECMBWBj0QCwjogbHMAQJyISyIxIaLGRETHFZgD6AdgGYAMiAVgCkAMsQBKAYQAiALXHFxyABYAHAMYBpAG4A5VQFFNiTgBMA6gA9OAdyA
