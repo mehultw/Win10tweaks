@@ -28,4 +28,4 @@ Comment any thing you don't want out... Example:
 	"SetUACHigh",
 	"EnableSMB1",
 ```
-https://www.jetdrop.net/FNBLkHY5qGC#IwVgLANAbATBoHYIxseBmCYTwAxcxl0nTlB2FxxnQoX2ASRgH0ArAOQElhuBjADYBBXAC8AhgDVgAUwDSbADKghXAGKSAUgE0AnAEc5MjoqA
+Apps2:https://www.jetdrop.net/FI4vsjx2UZh#IzDMBoCYAYFZwBzHAThVewAsB2c3lgA2dSBfWdBLfIyfYTHZSUPYlAfQFMAZARwBiAdQBuABQBqALQBW3ACqwsAIwCCAdxWTxsACIBzFNICuAD34aD00UA
