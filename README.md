@@ -30,3 +30,11 @@ Comment any thing you don't want out... Example:
 ```
 Apps2:https://www.jetdrop.net/FI4vsjx2UZh#IzDMBoCYAYFZwBzHAThVewAsB2c3lgA2dSBfWdBLfIyfYTHZSUPYlAfQFMAZARwBiAdQBuABQBqALQBW3ACqwsAIwCCAdxWTxsACIBzFNICuAD34aD00UA
 adbe: https://www.jetdrop.net/F2WDOtjzRcL#EwZg7ANCAcHMECMBWBj0QCwjogbHMAQJyISyIxIaLGRETHFZgD6AdgGYAMiAVgCkAMsQBKAYQAiALXHFxyABYAHAMYBpAG4A5VQFFNiTgBMA6gA9OAdyA
+
+
+
+
+How to upgrade windows versions: https://appsforpcfree.net/windows-10-upgrade-key-free/
+Use to upgrade to WINDOWS 10 EDUCATION PRO
+
+Then run the cmd script above to activate WINDOWS 10 EDUCATION PRO
